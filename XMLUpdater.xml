@@ -2,7 +2,7 @@
 <sharpUpdate>
   <update appID="TestApp">
     <version>2.0.0.0</version>
-    <url>https://github.com/matthew17754/SharpUpdate/blob/master/XMLUpdater.xml</url>
+    <url>https://github.com/matthew17754/SharpUpdate/blob/XML-updater/TestApp/bin/Debug/TestApp.exe</url>
     <fileName>TestApp2.exe</fileName>
     <md5>f16f9270971eaeae8e313b32e8ff0814</md5>
     <description>Initial Update</description>
